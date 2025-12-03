@@ -9,3 +9,6 @@ Basically download global and cn bs assets directly on their official servers
 # Credits
 
 [tailjs](https://github.com/tailsjs) <-- got the fingerprints from him
+
+# What is this branch?
+For downloading their assets using web as gui lol
